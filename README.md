@@ -3,4 +3,4 @@ CRM Softcoders
 
 Customer Relationship Management Open Source
 
-by http://softcoders.mx
+By http://softcoders.mx
